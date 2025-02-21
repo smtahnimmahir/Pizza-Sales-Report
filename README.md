@@ -179,7 +179,7 @@ Power BI is used to create interactive dashboards that help visualize pizza sale
 <img src="images/1_Pizza_Sales_Home_Report_Dashboard.png">
 
 ### Best/Worst Sellers Report Dashboard
-<img src="images/2_Best_worst_Sellers_Report_Dashboard.png">
+<img src="images/2_Best_Sales_Home_Report_Dashboard.png">
 
 ## Key Insights
 
